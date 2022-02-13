@@ -6,6 +6,24 @@
 - Queijo
 - Requeijão
 
+### **Pão Árabe de X-Bacon:bacon:**
+
+- Pão Árabe
+- Frango Desfiado
+- Bacon
+- Alface
+- Milho
+- Queijo
+- Requeijão
+
+### **Pão Árabe de X-Tudo:shallow_pan_of_food:**
+
+- Pão Árabe
+- Frango Desfiado
+- Milho
+- Queijo
+- Requeijão
+
 
 
 #### *Modo de preparo:shallow_pan_of_food:*
